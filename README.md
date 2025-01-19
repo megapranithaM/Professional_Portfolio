@@ -9,7 +9,7 @@ Responsive Layout: Optimized for all devices, ensuring it looks great on desktop
 Project Showcases: A collection of my recent work with detailed case studies and live links.
 Client Testimonials: Real feedback from clients, offering insights into my collaborative approach and results-driven mindset.
 
-You can check out the website here: https://megapranitham.github.io/professional-portfolio-profile/ 🌐
+You can check out the website here: https://megapranitham.github.io/Professional_Portfolio/ 🌐
 
 I’m excited to share this with you and hear your thoughts! ✨ Let me know what you think, and feel free to connect if you'd like to collaborate on a future project. 😊
 
